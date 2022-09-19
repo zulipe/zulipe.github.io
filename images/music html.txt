@@ -1,0 +1,13 @@
+<section class="music" id="music">
+        <div class="center">
+            <div class="chamada-sobre">
+                <h2>A música que me lembra você!</h2>
+                <p>Lembra de quando eu coloquei essa música pra gente ouvir no seu aniversário e disse que dedicava ela a você? É porque você é perfeita do jeitinho que você é, just the way you are.</p>
+            </div><!--chamada-sobre-->
+            <div class="music-audio">
+                <audio controls="false" class="audio-1"">
+                    <source src="music/JustTheWayYouAre.mp3">
+                </audio>
+            </div><!--music-audio-->
+        </div><!--center-->
+</section><!--music-->
